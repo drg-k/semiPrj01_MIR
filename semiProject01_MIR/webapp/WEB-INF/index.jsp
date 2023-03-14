@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -126,10 +128,11 @@ footer {
 </head>
 <body>
 	<!-- notice 영역 -->
-	<div style="display: inline-block; margin: 0; border: 1; color: balck">
+	<div style="display: inline-block; margin: 0; border: 1; 
+	color: balck">
 	</div>
-	<div
-		style="background-color: rgb(81, 117, 53); padding: 10px; text-align: right">
+	<div style="background-color: rgb(81, 117, 53); 
+	padding: 10px; text-align: right">
 
 		<input type="search"
 			style="background: transparent; border-width: 1px; border-style: solid; border-color: black; border-top: 1px">
